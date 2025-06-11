@@ -1,5 +1,5 @@
 . 👋 Hi, I’m @Abdurashid2004, your friendly neighborhood coder.                     
-. 👀 I’m interested in crafting sleek web apps with Vue.js and powerful backends with Node.js.
+. 👀 I’m interested in crafting sleek web apps with Vue.js.
 . 🌱 I’m currently learning the art of AI integration and scaling apps to handle the big leagues.
 . 💞️ I’m looking to collaborate on projects that make life easier, one line of code at a time.  
 . 📫 How to reach me: Slide into my DMs or shoot me an email at [coderkmoldinov1@gmail.com].  
